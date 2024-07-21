@@ -37,7 +37,7 @@ const Footer = () => {
               <p class="flex items-center gap-2 mt-2">
                 {" "}
                 <FaMapLocation />
-                Noida, Uttar Pradesh
+                Lahore, Pakistan
               </p>
             </div>
           </motion.div>
